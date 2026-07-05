@@ -1,3 +1,4 @@
 # BRG-30ISEA_Labs
 
-Lab1 
+All labs are in each of their branches
+
