@@ -1,0 +1,7 @@
+to view files content without a GUI i needed to open command line(cmd) and type out certain commands to funcition
+first I made a directory to contain my LabFile with mkdir Labfiles
+second i create notes.txt using nano notes.txt inside i place sample text for me to call later
+then i can use commands like cat/less to open and see the files content
+using commands like cp and mv i can manipulate the files to perform certain actions, cp allows me to copy the file to a new file i create Command: cp notes.txt newnotes.txt
+while mv moves the file to a choosen directory instead Command : mv notes.txt /home
+mv can also be used to rename files by choosing a new file name instead of choosing a directory Command : mv notes.txt copied.txt
