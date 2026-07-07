@@ -1,0 +1,6 @@
+free - h is a command in linux that shows the ram usage in the computer
+we can use commands like df - h to show disk usage,
+and top - b for cpu usage
+automation is important for admins as it improves efficency in monitoring and maintaenances,
+it reduce the chance for human error and is very consitant.
+this allows the admin to focus on other task instead which improves productivity
