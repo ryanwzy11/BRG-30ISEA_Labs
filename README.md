@@ -8,3 +8,4 @@ exploring Linux CMD
 
 file system and searches
 
+Overall Lab 1a-1b gave me a good refreasher into the Linux commands as the last time i used Linux was years ago
