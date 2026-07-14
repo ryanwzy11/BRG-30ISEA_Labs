@@ -1,5 +1,6 @@
-# BRG-30ISEA_Labs
-This is a repository for all labs in BRG-30ISEA_labs
-All labs are in each of their branches
-	
-main > branches > Lab 1/2 etc
+# BRG-30ISEA_Lab 3
+This is a repository for Lab 3s
+which contains steps for 
+Configuring DNS 
+Using Certbot to enable HTTPS 
+Cron Jobs
